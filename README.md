@@ -11,7 +11,7 @@ This project showcases personal details, skills, projects, and contact informati
 
 ### 🌐 **Live Demo:**
 
-👉  https://jonalynazucenaariola.github.io/myportfolio.web/*(Replace with your actual link)*
+👉  https://jonalynazucenaariola.github.io/myportfolio.web/
 
 ### 🗂️ **GitHub Repository:** 
 👉 [https://github.com/yourusername/your-portfolio](https://github.com/yourusername/your-portfolio) *(Replace with your actual repo)*
