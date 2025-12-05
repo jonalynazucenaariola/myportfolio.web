@@ -13,7 +13,7 @@ This project showcases personal details, skills, projects, and contact informati
 
 👉 [https://your-portfolio-demo-link.com](https://your-portfolio-demo-link.com) *(Replace with your actual link)*
 
-### 🗂️ **GitHub Repository:**
+### 🗂️ **GitHub Repository:** file:///C:/Users/STUDENT%20USER/Desktop/jonalynariola/index.html
 
 👉 [https://github.com/yourusername/your-portfolio](https://github.com/yourusername/your-portfolio) *(Replace with your actual repo)*
 
